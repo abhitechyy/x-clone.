@@ -45,14 +45,17 @@ Here’s the preview of the XClone project:
    git clone https://github.com/abhitechyy/xclone.git
 
 2. Navigate to the project folder :
+
 cd xclone
 
-3. Open index.html in your browser
+4. Open index.html in your browser
 
-🤝 Contributing :-
+🤝 Contributing
+
 This project is for learning purposes. Feel free to fork, improve, and create pull requests!
 
 📜 License
+
 This project is licensed under the MIT License – see the LICENSE
  file for details.
  
