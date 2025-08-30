@@ -49,7 +49,7 @@ cd xclone
 
 3. Open index.html in your browser
 
-🤝 Contributing
+🤝 Contributing :-
 This project is for learning purposes. Feel free to fork, improve, and create pull requests!
 
 📜 License
