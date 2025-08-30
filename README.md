@@ -44,10 +44,10 @@ Here’s the preview of the XClone project:
    ```bash
    git clone https://github.com/abhitechyy/xclone.git
 
-2.Navigate to the project folder
+2. Navigate to the project folder :
 cd xclone
 
-3.Open index.html in your browser
+3. Open index.html in your browser
 
 🤝 Contributing
 This project is for learning purposes. Feel free to fork, improve, and create pull requests!
@@ -56,9 +56,6 @@ This project is for learning purposes. Feel free to fork, improve, and create pu
 This project is licensed under the MIT License – see the LICENSE
  file for details.
  
-👨‍💻 Author
-
-Abhishek Mishra
 
 ## 👨‍💻 Author
 **Abhishek Mishra**  
