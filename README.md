@@ -59,7 +59,9 @@ This project is licensed under the MIT License – see the LICENSE
  
 
 ## 👨‍💻 Author
+
 **Abhishek Mishra**  
 
-📧 [abhishekmishra65836583@gmail.com](mailto:abhishekmishra65836583@gmail.com)  
+📧 [abhishekmishra65836583@gmail.com](https://mail.google.com/mail/?view=cm&to=abhishekmishra65836583@gmail.com)
+ 
 🔗 [LinkedIn](https://www.linkedin.com/in/iamabhishekm-dev)
