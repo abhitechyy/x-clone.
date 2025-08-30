@@ -44,11 +44,9 @@ Here’s the preview of the XClone project:
    ```bash
    git clone https://github.com/abhitechyy/xclone.git
 
-2. Navigate to the project folder :
+2. Navigate to the project folder :cd xclone
 
-cd xclone
-
-4. Open index.html in your browser
+3. Open index.html in your browser
 
 🤝 Contributing
 
